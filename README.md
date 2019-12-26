@@ -1,7 +1,6 @@
 # README
 
-1. Create a links aggregator similar to reddit in rails
-2. project creation
+Create a links aggregator similar to reddit in rails
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
